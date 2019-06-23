@@ -1,0 +1,5 @@
+abc abc
+abc bca
+bbc cba
+abc abc
+abc cab
